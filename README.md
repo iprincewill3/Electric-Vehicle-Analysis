@@ -21,7 +21,7 @@ With the rising need to save the environment from high-level carbon emission ass
 * Analyse the total number of Plug-in Hybrid Electric Vehicles (PHEVs), as well as its percentage of the total number of EVs, providing insights into the market share of plug-in hybrid models.
 * Visualise the following:
 - Distribution of EVs over the years (from 2011) to provide insights into the growth pattern and adaptation trends
-- Geographical distribution of EVs across the various states in the dataset, to identify the regions with higher adaptation rate.
+- Geographical distribution of EVs across the various states in the dataset, to identify the regions with a higher adaptation rate.
 - Top 10 manufacturers and brands of EVs, by total number of EVs, providing insights into the brands with market dominance.
 - Show the portion of EVs that are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, to highlight the impact of incentives on vehicle adaptation. 
 - Top 10 vehicles by make.
